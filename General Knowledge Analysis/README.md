@@ -35,6 +35,8 @@ python main.py --hf_token "your_token" --seed 42 \
 
 For a full list of available command-line arguments, please see the [MyArgParser.py](utils/MyArgParser.py) file.
 
+You can see my scripts in script folder to get information more.
+
 # Examples
 For a usage example, please refer to the code provided in the [main.py](main.py) file.
 
