@@ -1,8 +1,0 @@
-src/peft/
-.venv/
-venv/
-__pycache__/
-*.py[cod]
-evaluate_persian/
-evaluate/
-model/
