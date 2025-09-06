@@ -1,0 +1,10 @@
+numpy
+transformers
+datasets
+torch
+peft
+scikit-learn
+tqdm
+evaluate
+seaborn
+bitsandbytes
